@@ -8,9 +8,10 @@ Welcome to my GitHub! I’m passionate about **developing scalable applications*
 
 ## 🛠️ **Tech Stack**  
 - **Languages:** C, C++, Java, JavaScript  
-- **Frontend:** React JS, HTML, CSS  
+- **Frontend:** React JS,Next JS  
 - **Backend:** Node.js, Express.js  
-- **Mobile Development:** Android (Java)  
+- **DataBase:** MongoDB, PostGreSQL
+- **Mobile Development:** React Native  
 - **Other Skills:** Embedded Systems, IoT, Automation, AI/ML  
 
 ---
