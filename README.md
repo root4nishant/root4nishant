@@ -1,17 +1,48 @@
-# 💫 About Me:
-Hi, I'm Nishant Srivastava, a final-year B.Tech Computer Science Engineering student at Galgotias University with a passion for building impactful software solutions.
+# 👋 Hi, I'm Nishant Srivastava  
 
-💻 Tech Expertise:
+**🎓 Final-Year B.Tech Student** | **💻 Software Developer** | **🚀 Tech Enthusiast**  
 
-Programming: C, C++, Java, JavaScript
-Web Development: React JS, Node.js, HTML, CSS
-Projects: Deep Learning insights, WhatsApp Chat Analyzer, and Resume Builder
-Mobile Development: Android (Java)
-Explorations: Generative AI, Full-Stack Web Development, and Automation
-🚀 What Drives Me:
-I aim to develop scalable, user-centric applications that solve real-world problems. With experience across competitive programming, backend development, and frontend integration, I focus on creating seamless, efficient solutions.
+Welcome to my GitHub! I’m passionate about **developing scalable applications** and **innovative solutions** to real-world problems.  
 
-Let’s connect to collaborate on exciting projects or brainstorm innovative idea
+---
+
+## 🛠️ **Tech Stack**  
+- **Languages:** C, C++, Java, JavaScript  
+- **Frontend:** React JS, HTML, CSS  
+- **Backend:** Node.js, Express.js  
+- **Mobile Development:** Android (Java)  
+- **Other Skills:** Embedded Systems, IoT, Automation, AI/ML  
+
+---
+
+## 🌟 **Projects**  
+- **Deep Learning-Based WhatsApp Chat Analyzer**  
+   AI-driven insights into chat patterns with custom notifications.  
+
+- **Dev Resume Builder**  
+   Dynamic resume generation and storage for users, with email notifications.  
+
+- **Lead Generation Platform**  
+   Designed and developed a frontend for optimized data collection and analysis.  
+
+---
+
+## 🚀 **What I’m Exploring**  
+- **Generative AI**: Incorporating LLMs into full-stack development.  
+- **Automation**: Building seamless workflows with AI and tools like Twilio.  
+- **Scalable Solutions**: Crafting efficient and performance-driven applications.  
+
+---
+
+## 📬 **Let’s Connect!**  
+If you're into **collaboration, problem-solving**, or just want to chat about tech, feel free to reach out:  
+- [LinkedIn](https://www.linkedin.com)  
+- [Portfolio](https://yourportfolio.com)  
+
+---
+
+Together, let's build something awesome!  
+
 
 
 ## 🌐 Socials:
