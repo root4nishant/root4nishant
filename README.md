@@ -37,8 +37,8 @@ Welcome to my GitHub! I’m passionate about **developing scalable applications*
 
 ## 📬 **Let’s Connect!**  
 If you're into **collaboration, problem-solving**, or just want to chat about tech, feel free to reach out:  
-- [LinkedIn](https://www.linkedin.com)  
-- [Portfolio](https://yourportfolio.com)  
+- [LinkedIn](https://linkedin.com/in/srivastava4nishant)  
+- [Portfolio](https://srivastava4nishant.vercel.app/)  
 
 ---
 
