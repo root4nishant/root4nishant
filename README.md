@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi, I'm Nishant Srivastava, a 3rd year B.Tech student pursuing Computer Science Engineering from Galgotias University, Greater Noida, Uttar Pradesh. I come from the beautiful city of Varanasi, Uttar Pradesh.<br><br>I am a technical enthusiast who is passionate about coding and eager to learn new skills.<br><br>As a technical enthusiast, I am constantly looking for ways to enhance my coding skills. I have a strong background in competitive programming with C, C++, and Java, and I'm also familiar with embedded systems and IoT. Additionally, I have experience in web development, including HTML, CSS, JavaScript, and React JS, as well as Android development using Java.<br><br>Beyond coding, I enjoy playing cricket and volleyball, and I'm an avid reader who is always looking for new sources of inspiration. I believe in taking a holistic approach to learning and growth, and I'm committed to expanding my skill set and exploring new areas of interest.<br><br>Feel free to connect with me if you share similar interests or if you think we could collaborate on a project together
+Hi, I'm Nishant Srivastava, a final-year B.Tech Computer Science Engineering student at Galgotias University with a passion for building impactful software solutions.
+
+💻 Tech Expertise:
+
+Programming: C, C++, Java, JavaScript
+Web Development: React JS, Node.js, HTML, CSS
+Projects: Deep Learning insights, WhatsApp Chat Analyzer, and Resume Builder
+Mobile Development: Android (Java)
+Explorations: Generative AI, Full-Stack Web Development, and Automation
+🚀 What Drives Me:
+I aim to develop scalable, user-centric applications that solve real-world problems. With experience across competitive programming, backend development, and frontend integration, I focus on creating seamless, efficient solutions.
+
+Let’s connect to collaborate on exciting projects or brainstorm innovative idea
 
 
 ## 🌐 Socials:
