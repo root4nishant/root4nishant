@@ -35,8 +35,7 @@ Together, let's build something awesome!
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=root4nishant&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=root4nishant&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=root4nishant&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=root4nishant&theme=dark&hide_border=false)<br/>
