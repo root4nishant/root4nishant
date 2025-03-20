@@ -16,17 +16,7 @@ Welcome to my GitHub! I’m passionate about **developing scalable applications*
 
 ---
 
-## 🌟 **Projects**  
-- **Deep Learning-Based WhatsApp Chat Analyzer**  
-   AI-driven insights into chat patterns with custom notifications.  
 
-- **Dev Resume Builder**  
-   Dynamic resume generation and storage for users, with email notifications.  
-
-- **Lead Generation Platform**  
-   Designed and developed a frontend for optimized data collection and analysis.  
-
----
 
 ## 🚀 **What I’m Exploring**  
 - **Generative AI**: Incorporating LLMs into full-stack development.  
