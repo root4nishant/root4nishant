@@ -6,15 +6,39 @@ Welcome to my GitHub! I’m passionate about **developing scalable applications*
 
 ---
 
-## 🛠️ **Tech Stack**  
-- **Languages:** C, C++, Java, JavaScript  
-- **Frontend:** React JS,Next JS  
-- **Backend:** Node.js, Express.js  
-- **DataBase:** MongoDB, PostGreSQL
-- **Mobile Development:** React Native  
-- **Other Skills:** Embedded Systems, IoT, Automation, AI/ML  
+<div align="center">
+
+## 🛠️ **Technology Arsenal**
+
+</div>
+
+<div align="center">
+
+### **Programming Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,go&theme=dark" />
+
+### **Frontend & UI**
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,figma&theme=dark" />
+
+### **Backend & Database**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,graphql,prisma&theme=dark" />
+
+### **AI/ML & Data Science**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,jupyter&theme=dark" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+### **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,nginx&theme=dark" />
+
+### **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=vscode,postman,firebase,vercel,netlify&theme=dark" />
+
+</div>
 
 ---
+
 
 
 
