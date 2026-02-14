@@ -6,15 +6,35 @@ Welcome to my GitHub! I’m passionate about **developing scalable applications*
 
 ---
 
-## 🛠️ **Tech Stack**  
-- **Languages:** C, C++, Java, JavaScript  
-- **Frontend:** React JS,Next JS  
-- **Backend:** Node.js, Express.js  
-- **DataBase:** MongoDB, PostGreSQL
-- **Mobile Development:** React Native  
-- **Other Skills:** Embedded Systems, IoT, Automation, AI/ML  
+<div align="center">
 
+## 🛠️ **Technology Arsenal**
+
+</div>
+
+<div align="center">
+
+### **Programming Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&theme=dark" />
+
+### **Frontend & UI**
+<img src="https://skillicons.dev/icons?i=nextjs,vite,react,tailwind,figma&theme=dark" />
+
+### **Backend & Database**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,graphql,prisma&theme=dark" />
+<!-- 
+### **AI/ML & Data Science**
+<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" /> -->
+
+### **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,nginx&theme=dark" />
+
+### **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=vscode,postman,firebase,vercel,netlify&theme=dark" />
+
+</div>
 ---
+
 
 
 
